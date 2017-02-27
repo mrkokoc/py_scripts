@@ -1,5 +1,5 @@
 import random
-weak_list = list("qwertyuiopasdfghjklzxcvbnm")
+weak_list = list("abcdefghijklmnopqrstuvwxyz")
 strong_list = weak_list + list("`-=[];',./~!@#$%^&*()_+}{|:<>?")
 
 
